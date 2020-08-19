@@ -1,0 +1,1 @@
+mongoDb --> springboot --> Angular --> docker --> kubernetes
